@@ -2,7 +2,7 @@
 
 _Last updated: July 19, 2026_
 
-Cyberdeck ("the app") is a retro launcher for Android published by jocoding
+Cyberdeck ("the app") is a retro launcher for Android and a retro phone experience for iOS published by jocoding
 (contact: highball@jocoding.net).
 
 ## Data we collect
@@ -13,7 +13,7 @@ data. There are no analytics, no advertising SDKs, and no accounts.
 ## Permissions we use
 
 - **Phone (CALL_PHONE)** — used only to place a call when you dial a number
-  on the retro keypad and press CALL. If you decline this permission, the
+  on the retro keypad and press CALL (on iOS the call goes through the system dialer). If you decline this permission, the
   app opens your system dialer instead. Dialed numbers never leave your
   device and are not stored by the app.
 - The app reads your device's battery level and signal strength solely to
